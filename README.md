@@ -5,7 +5,7 @@
 
 I'm a Backend Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. Over past years, I created some websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with JavaScript Mern as well.
 
-Skills: Express JS / NodeJS / JS / HTML / CSS
+Skills: MongoDB / React JS / Express JS / NodeJS / JS / HTML / CSS
 
 - 🔭 I’m currently working on on air of internet 
 - 🌱 I’m currently learning Express JS 
