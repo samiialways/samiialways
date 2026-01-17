@@ -1,22 +1,23 @@
+# 👋 Hi, I’m Sami (samiialways)
 
+🎓 Diploma in Computer Science & Technology (GPA 3.70+)  
+🌐 Full-Stack Developer (MERN) – Focused on practical, real-world apps  
+📍 Dhaka, Bangladesh
 
-### Hi there 👋, This is Md. Shahnewaj Tanjil Sami
-#### Backend Web Developer
+## 🚀 What I Build
+I create **full-stack applications**, responsive web UIs, and backend services that solve real problems.
 
-I'm a Backend Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented and always work with an end goal in mind. Over past years, I created some websites for my clients. I pride myself on doing quality work and maintain excellent communication. I enjoy working with JavaScript Mern as well.
+🔗 Live Portfolio: https://tanjilinverse.netlify.app
 
-Diploma in CST | Full-Stack Developer (MERN)
-Interested in Software Engineering & Applied IT
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, Netlify, VS Code
 
-Skills: MongoDB / React JS / Express JS / NodeJS / JS / HTML / CSS
+## 📂 Projects
+Each project has clear explanations in its README (problem, solution, tech, role).
 
-- 🔭 I’m currently working on on air of internet 
-- 🌱 I’m currently learning Express JS 
-- 👯 I’m looking to collaborate on LInkdin 
-- 💬 Ask me about Full Stack Web Developing 
-- 📫 How to reach me: Linkedin, Fiver, Github 
-- 😄 Pronouns: Sami 
-- ⚡ Fun fact: I break things just to fix them again — full-stack chaos with a side of coffee ☕ and console logs! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/samiialways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/magpie.tanjilsami.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thegreat_tanjil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xtanjil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https//:tanjilinverse.netlify.app.co)  
